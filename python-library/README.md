@@ -9,7 +9,7 @@ A simple matrix multiplication library was created as part of an Advanced Linear
 # Installation
 From PyPI (Recommended)
 ```
-pip install alumath-matrixlib
+pip install alumath-peergroup19
 ```
 
 From Source
@@ -21,7 +21,7 @@ pip install.
 
 ## Quick Start
 ```
-from alumath_matrixlib import matrix_multiply
+from alumath-peergroup19 import matrix_multiply
 
 # Define your matrices
 matrix_a = [
@@ -42,7 +42,7 @@ print(result)
 
 ## Basic Matrix Multiplication
 ```
-from alumath_matrixlib import matrix_multiply
+from alumath-peergroup19 import matrix_multiply
 ```
 **2x2 matrices**
 ```
@@ -93,7 +93,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Version History
 
-1.0.4 - Current stable release.
+1.0.5 - Current stable release.
 Includes comprehensive error handling and ASCII art animations.
 
 Supports Python 3.6+.
@@ -102,7 +102,7 @@ Supports Python 3.6+.
 ALU Advanced Linear Algebra PCA Group 19
 ## Python Library
 
-Our custom matrix multiplication library `alumath-matrixlib` developed by the team.
+Our custom matrix multiplication library `alumath-peergroup19` developed by the team.
 
 ### Repository
 - **Main Library Repo**: [ICYEZAGATORE/alumath-peergroup19-](https://github.com/ICYEZAGATORE/alumath-peergroup19-)
