@@ -100,6 +100,14 @@ Supports Python 3.6+.
 
 # Author
 ALU Advanced Linear Algebra PCA Group 19
+## Python Library
+
+Our custom matrix multiplication library `alumath-matrixlib` developed by the team.
+
+### Repository
+- **Main Library Repo**: [ICYEZAGATORE/alumath-peergroup19-](https://github.com/ICYEZAGATORE/alumath-peergroup19-)
+- **PyPI Package**: `alumath-matrixlib`
+
 
 # Acknowledgments
 Created as part of the Advanced Linear Algebra coursework.
